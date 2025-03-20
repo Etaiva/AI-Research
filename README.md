@@ -4,16 +4,7 @@ Welcome to the **AI-Research** repository! This repository documents my journey 
 
 ## Repository Structure
 
-The repository is organized into training folders corresponding to different learning paths and technologies:
-├── Python_Training/ 
-  ├── Lesson1_Basics.md
-  ├── Lesson2_Data_Science.md 
-  │ └── ... # Additional Python lessons and tutorials 
-├── Microsoft_AI/ 
-  ├── Module1_Intro.md 
-  │ └── Module2_Advanced.md 
-├── IBM_Training/ # Upcoming materials for IBM training certifications 
-├── AWS_Training/ # Upcoming materials for AWS training certifications 
+The repository is organized so that as I encounter material I share or save it to this repository. As I encounter good training mixed in with other material I will keep it in this repository to keep track of  to different learning paths and technologies:.
 
 ## Resources
 
@@ -25,6 +16,11 @@ The repository is organized into training folders corresponding to different lea
 
 - **IBM & AWS Training (Upcoming):**  
   Future resources will include training materials and certification guides for IBM and AWS.
+
+  **Agentic AI**
+  What is it?
+  How to develop it?
+  How to use and commercialize it?
 
 ## Getting Started
 
